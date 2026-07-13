@@ -9,11 +9,11 @@ src/gowa
 src/pkged.go
 
 # Database
-*.db
-storages/
+# *.db
+# storages/
 
 # Environment
-.env
+# .env
 
 # Runtime media & QR codes
 statics/
